@@ -1,2 +1,2 @@
 # Reinforcement_Learning-XJTU
-For graduation project
+Learn the application of reinforcement learning in finance.
